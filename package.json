@@ -1,8 +1,8 @@
 {
-  "name": "todo-app",
+  "name": "react-devops",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://GoofyPR.github.io/todo-app",
+  "homepage": "https://goofypr.github.io/react-devops",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
